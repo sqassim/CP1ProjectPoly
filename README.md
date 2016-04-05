@@ -1,7 +1,5 @@
-# CP1ProjectPoly
-Java Simple Project
------------------------
-Java Class needed:
-1- Java.util.Scanner
-2- Java.io.File
-3- java.io.PrintWriter
+# File Input
+# Display all details of a chosen computer
+# Change the quantity of a chosen computer
+# List all computers of a certain type
+# Remove a computer from the store 
