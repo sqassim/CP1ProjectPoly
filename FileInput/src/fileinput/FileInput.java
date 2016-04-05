@@ -18,8 +18,9 @@ public class FileInput {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Scanner input = new Scanner(System.in); //Scanner Obj
-        String fileLocation; //Variable for Location
+        Scanner input = new Scanner(System.in); //Scanner Obj for keyboard
+        File file = new File("FilePathHere"); //File Object to read
+        
 
     }
     
