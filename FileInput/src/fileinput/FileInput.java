@@ -20,6 +20,7 @@ public class FileInput {
         // TODO code application logic here
         Scanner input = new Scanner(System.in); //Scanner Obj
         String fileLocation; //Variable for Location
+        String saveLocation; //Variable to save
     }
     
 }
