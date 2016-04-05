@@ -9,6 +9,8 @@ package fileinput;
  *
  * @author sayedq
  */
+import java.util.Scanner; //import Scanner Class
+import java.io.File; //import File Class
 public class FileInput {
 
     /**
