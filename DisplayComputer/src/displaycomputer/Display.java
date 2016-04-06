@@ -10,6 +10,7 @@ package displaycomputer;
  * @author sayedq
  */
 import java.util.Scanner; //Import Java Class
+import java.io.File; //import File Class
 public class Display {
     
     public static void main(String[] args){
